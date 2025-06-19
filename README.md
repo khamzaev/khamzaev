@@ -1,13 +1,6 @@
 <table>
 <tr>
 <td width="550">
-<h1>About me</h1>
-
-Python-разработчик с опытом работы в разработке веб-приложений и API. Основной фокус на Django и создании RESTful API. Работал над проектами, включающими автоматизацию, создание чат-ботов, а также разработку и тестирование полноценных веб-приложений. Имею опыт работы с HTML и Shell-скриптами. Примеры проектов:
-- Разработка API 
-- Создание Django-приложений в рамках спринтов.
-- Автоматизированный бот для выполнения задач.
-Постоянно совершенствую навыки программирования и разрабатываю проекты, чтобы решать реальные задачи.
 
 </td>
 <td>
@@ -29,10 +22,10 @@ Python-разработчик с опытом работы в разработк
 <tr>
    <td> Languages </td>
    <td>
-       <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="70"/>&nbsp;
    </td>
    <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="70"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;
    </td>
    <td>
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg" width="70"/>&nbsp;
@@ -43,6 +36,9 @@ Python-разработчик с опытом работы в разработк
 </tr>
 <tr>
    <td> Tools </td>
+   <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="UIKit" width="70"/>&nbsp;
+   </td>
    <td>
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-original-wordmark.svg" width="70" />&nbsp;
    </td>
@@ -67,6 +63,9 @@ Python-разработчик с опытом работы в разработк
 </tr>
 <tr>
    <td> IDEs/Editors </td>
+   <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="70"/>&nbsp;
+   </td>
    <td>
         <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" width="70"/>&nbsp;
    </td>
