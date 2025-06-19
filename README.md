@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="550">
-
+<img src="https://raw.githubusercontent.com/piyush97/piyush97/master/charts/github-snake-dark.svg" />
 </td>
 <td>
    <h2> My socials </h2>
