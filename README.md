@@ -32,6 +32,9 @@ Python-разработчик с опытом работы в разработк
        <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" width="70"/>&nbsp;
    </td>
    <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="70"/>&nbsp;
+   </td>
+   <td>
         <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg" width="70"/>&nbsp;
    </td>
    <td>
